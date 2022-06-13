@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hong</h1>
 <h3 align="center">A passionate frontend developer from Sydney</h3>
 
-- 🌱 I’m currently learning **Javascript, Ruby on rails, React, React Native**
-
-- 💬 Ask me about **Ruby on rails or React or any User experience related topics**
 
 - 📫 How to reach me **lim.hongleang@gmail.com**
 
